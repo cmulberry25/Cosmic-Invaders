@@ -67,11 +67,9 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 
 ## Strategic Messaging
 
-- **We are delivering a premium, category-defining AR experience on ThinkReality A3 that differentiates the platform and drives engagement, while technically combining partner SDKs, OpenXR, XR Interaction Toolkit, Inference Engine, and the gameplay/session runtimes to provide spatial tracking, shared anchors, adaptive encounters, and low-latency host-authoritative play.**
+- **A showcase of how Unity accelerates creation and reduces creative friction by enabling continuous release of real-time 3D content generation without full application rebuilds.**
 
-- **We are turning the application into a scalable live multiplayer business that improves retention, competition, and monetization, while technically using Authentication, Lobby, Matchmaker, Relay, Multiplayer Services SDK, Economy, Leaderboards, Remote Config, and Analytics to support identity, matchmaking, real-time sessions, progression, LiveOps, and continuous optimization.**
-
-- **We are increasing content velocity and reducing operating friction by enabling continuous release of new experiences without full application rebuilds, while technically using Unity Asset Manager, Unity Version Control, Unity Pipeline Automation, Unity Asset Transformer with 3D Data Streaming, and Cloud Content Delivery to govern, optimize, package, and distribute runtime-ready content on demand.**
+- **The experience is powered by Unity Asset Manager, Version Control, Pipeline Automation, Asset Transformer with 3D Data Streaming, and Cloud Content Delivery to govern, optimize, package, and distribute real-time 3D ready content on-demand.**
 
 ---
 
