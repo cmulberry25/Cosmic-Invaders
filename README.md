@@ -70,28 +70,37 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 - **The experience is powered by Unity Asset Manager, Version Control, Pipeline Automation, Asset Transformer with 3D Data Streaming, and Cloud Content Delivery to govern, optimize, package, and distribute real-time 3D ready content on-demand.**
 
 ---
+## Objective
+- Deliver a functional multiplayer AR combat demo on ThinkReality A3 within 3–4 days.
+
+## User Experience
+- Players join the same AR session, see a shared battlefield, fight synchronized enemy waves using basic offensive and defensive actions, and receive a final match result.
 
 ## Solution Scope
 
 ### In Scope
 
-- ThinkReality A3 AR gameplay runtime
-- Shared spatial multiplayer session architecture
-- Unity service integration pattern
-- Content pipeline and content delivery architecture
-- Capability naming and taxonomy
-- Runtime and supply-chain sequence views
-- LiveOps and progression services
-- Analytics and adaptive intelligence integration
+- ThinkReality A3 integration
+- shared-world alignment
+- session creation/join
+- synchronized gameplay state
+- wave-based enemy spawning
+- attack/defense gameplay
+- enemy damage/death/despawn
+- scoring
+- match completion
+- replay flow
 
 ### Out of Scope
 
-- Final art direction and detailed game design
-- Complete UX/UI wireframes
-- Production infrastructure sizing
-- Detailed anti-cheat implementation
-- Store publication and marketplace packaging
-- Dedicated authoritative server implementation
+- persistent progression
+- monetization
+- LiveOps
+- content pipeline tooling
+- advanced analytics
+- personalization
+- production-grade matchmaking
+- multi-mode support
 
 ---
 
