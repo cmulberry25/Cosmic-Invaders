@@ -104,21 +104,6 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 
 ---
 
-## Capability Model
-
-### Recommended Top-Level Capabilities
-
-1. **Platform & Device Integration**
-2. **Spatial Experience Management**
-3. **Encounter Orchestration**
-4. **Combat Resolution**
-5. **Entity Lifecycle Management**
-6. **Multiplayer Session Orchestration**
-7. **Competition, Rewards & Progression**
-8. **LiveOps & Personalization**
-9. **Content Supply Chain**
-10. **Insights & Adaptive Intelligence**
-
 ### Capability Definitions
 
 | Capability | Description |
