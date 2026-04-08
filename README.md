@@ -22,7 +22,7 @@ The architecture is intentionally built upon three essential building blocks:
 
 1. **ThinkReality A3 Client Runtime**
 2. **Unity Cloud Integrated Services**
-3. **Content Supply Chain**
+3. **Intelligent Content Generation**
 
 ---
 
