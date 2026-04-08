@@ -119,17 +119,6 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 9. **Content Supply Chain**
 10. **Insights & Adaptive Intelligence**
 
-### Recommended Sub-Capabilities
-
-| Gameplay Term | Recommended Capability Name |
-|---|---|
-| Attack | **Offensive Actions** |
-| Defend | **Defensive Actions** |
-| Entity Generation | **Encounter Orchestration** or **Entity Lifecycle Management** |
-| Wave Spawning | **Threat Generation** |
-| Shielding | **Damage Mitigation** |
-| Powerups | **Buff & Ability Management** |
-
 ### Capability Definitions
 
 | Capability | Description |
