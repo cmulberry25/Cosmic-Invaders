@@ -38,9 +38,9 @@ This project discovery defines a **reference application architecture** that bri
 - **ThinkReality / Partner SDKs**
 - **OpenXR**
 - **Unity XR Interaction Toolkit**
-- **Unity client gameplay runtime**
+- **Unity Engine runtime**
 - **Unity Cloud Services**
-- **Unity content supply chain tooling**
+- **Digital content supply chain tooling**
 
 The architecture is intentionally separated into three planes:
 
