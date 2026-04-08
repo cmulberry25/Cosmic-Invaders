@@ -48,7 +48,7 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 ## User Experience
 - Players join the same AR session, see a shared battlefield, fight synchronized enemy waves using basic offensive and defensive actions, and receive a final match result.
 
-## Solution Scope
+## Project Scope
 
 ### In Scope
 
