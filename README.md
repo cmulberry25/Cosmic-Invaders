@@ -69,10 +69,6 @@ Create a **premium, category-defining AR multiplayer game** on ThinkReality A3 t
 
 - **The experience is powered by Unity Asset Manager, Version Control, Pipeline Automation, Asset Transformer with 3D Data Streaming, and Cloud Content Delivery to govern, optimize, package, and distribute real-time 3D ready content on-demand.**
 
----
-## Objective
-- Deliver a functional multiplayer AR combat demo on ThinkReality A3 within 3–4 days.
-
 ## User Experience
 - Players join the same AR session, see a shared battlefield, fight synchronized enemy waves using basic offensive and defensive actions, and receive a final match result.
 
